@@ -52,13 +52,7 @@ Enter the number of threads to use: 10
 ## Output
 - Open ports and their services are displayed in the terminal.
 - Results are saved to `scan_results.txt` for future reference.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 
 ## Credits
-Developed by **[Your Name]** as an efficient and lightweight network scanner.
+Developed by **[S1B34]** as an efficient and lightweight network scanner.
